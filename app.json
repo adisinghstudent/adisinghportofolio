@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "portofoliolearn",
+    "slug": "portofoliolearn",
+    "version": "0.1.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [],
+    "ios": {
+      "bundleIdentifier": "com.adisinghstudent.portofoliolearn"
+    }
+  }
+}
